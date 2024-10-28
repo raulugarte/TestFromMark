@@ -1,11 +1,11 @@
 {
   "mappings": [
-    "/content/securbank/:/",
-    "/content/securbank/placeholders:/placeholders.json",
-    "/content/securbank/loans/mortgagecalc:/mortgagecalc.json",
+    "/content/testfrommark/:/",
+    "/content/testfrommark/placeholders:/placeholders.json",
+    "/content/testfrommark/loans/mortgagecalc:/mortgagecalc.json",
     "/graphql:/graphql",
-    "/content/securbank.resource/icons/:/icons/",
-    "/content/securbank/configuration:/.helix/config.json"
+    "/content/testfrommark.resource/icons/:/icons/",
+    "/content/testfrommark/configuration:/.helix/config.json"
   ],
-  "includes": ["/content/securbank/"]
+  "includes": ["/content/testfrommark/"]
 }
